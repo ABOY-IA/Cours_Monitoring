@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aboys/Documents/Simplon/Cours_Exos/Monitoring/mlruns/0/e27752a61a644491a3418868175f9309/artifacts
+end_time: 1734602629828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e27752a61a644491a3418868175f9309
+run_name: skittish-carp-32
+run_uuid: e27752a61a644491a3418868175f9309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734602603092
+status: 3
+tags: []
+user_id: aboys

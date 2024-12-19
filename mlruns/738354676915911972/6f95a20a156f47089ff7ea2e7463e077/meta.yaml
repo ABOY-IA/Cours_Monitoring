@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738354676915911972/6f95a20a156f47089ff7ea2e7463e077/artifacts
+end_time: 1734606097600
+entry_point_name: ''
+experiment_id: '738354676915911972'
+lifecycle_stage: active
+run_id: 6f95a20a156f47089ff7ea2e7463e077
+run_name: abrasive-newt-19
+run_uuid: 6f95a20a156f47089ff7ea2e7463e077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734606058998
+status: 3
+tags: []
+user_id: aboys

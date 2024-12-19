@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738354676915911972/31a13d10058e49bda4c629952dba9a05/artifacts
+end_time: 1734605582350
+entry_point_name: ''
+experiment_id: '738354676915911972'
+lifecycle_stage: active
+run_id: 31a13d10058e49bda4c629952dba9a05
+run_name: skillful-kit-162
+run_uuid: 31a13d10058e49bda4c629952dba9a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734605565478
+status: 4
+tags: []
+user_id: aboys

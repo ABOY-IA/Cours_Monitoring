@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738354676915911972/0aa40672ba9b4e49bba7df3298fba2c9/artifacts
+end_time: 1734607483049
+entry_point_name: ''
+experiment_id: '738354676915911972'
+lifecycle_stage: active
+run_id: 0aa40672ba9b4e49bba7df3298fba2c9
+run_name: useful-deer-716
+run_uuid: 0aa40672ba9b4e49bba7df3298fba2c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734607466439
+status: 4
+tags: []
+user_id: aboys

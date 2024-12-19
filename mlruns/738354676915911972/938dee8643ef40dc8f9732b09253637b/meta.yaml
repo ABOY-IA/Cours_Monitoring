@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738354676915911972/938dee8643ef40dc8f9732b09253637b/artifacts
+end_time: 1734607736422
+entry_point_name: ''
+experiment_id: '738354676915911972'
+lifecycle_stage: active
+run_id: 938dee8643ef40dc8f9732b09253637b
+run_name: gentle-carp-595
+run_uuid: 938dee8643ef40dc8f9732b09253637b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734607719450
+status: 4
+tags: []
+user_id: aboys

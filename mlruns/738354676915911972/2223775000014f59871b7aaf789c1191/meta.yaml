@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738354676915911972/2223775000014f59871b7aaf789c1191/artifacts
+end_time: 1734606149913
+entry_point_name: ''
+experiment_id: '738354676915911972'
+lifecycle_stage: active
+run_id: 2223775000014f59871b7aaf789c1191
+run_name: bemused-sheep-661
+run_uuid: 2223775000014f59871b7aaf789c1191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734606123098
+status: 3
+tags: []
+user_id: aboys

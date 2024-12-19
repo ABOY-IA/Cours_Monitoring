@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738354676915911972/54d32e8c73164fcb985c4a7b9a75e921/artifacts
+end_time: 1734607529656
+entry_point_name: ''
+experiment_id: '738354676915911972'
+lifecycle_stage: active
+run_id: 54d32e8c73164fcb985c4a7b9a75e921
+run_name: wise-squirrel-978
+run_uuid: 54d32e8c73164fcb985c4a7b9a75e921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734607513295
+status: 4
+tags: []
+user_id: aboys
